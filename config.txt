@@ -1,0 +1,2 @@
+net.dach.ext.DaoImplV2
+net.dach.metier.MetierImpl
